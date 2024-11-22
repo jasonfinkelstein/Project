@@ -1,2 +1,3 @@
-# Website Project
-#### This is the first complete site that I created from scratch based off a Figma layout
+# Ground Up Coffee Shop Website Project
+## Noble Desktop Student Project
+#### This project is practice for making a complete site using HTML/CSS/JS from scratch using a given Figma layout.
